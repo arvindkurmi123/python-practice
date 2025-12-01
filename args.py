@@ -16,3 +16,12 @@ def total(*arr):
 student_info(name="Arvind", age=22, branch="CSE")
 demo(1,"ab",12,24,52,6,[1,23],d="kdjf",c=12,shift=2,eye="Blue")
 print(total(12,13,4,2,13,1,4))
+
+
+# {'name': 'Arvind', 'age': 22, 'branch': 'CSE'}
+# 1 ab
+# (12, 24, 52, 6, [1, 23])
+# {'d': 'kdjf', 'c': 12, 'shift': 2, 'eye': 'Blue'}
+# <class 'tuple'> (12, 13, 4, 2, 13, 1, 4)
+# <class 'type'> type
+# 49
